@@ -62,8 +62,6 @@ Age and tenure are dynamic and may differ from saved screenshots. Tableau year-b
 
 ## Review notes
 
-The supplied workbook is preserved unchanged. Its Age Groups calculation maps ages below 25 to the label `>25`; that label should read `<25`. Correct this in Tableau before re-exporting the screenshots. The generation prompt mentions overtime and adjusted salary, but the delivered CSV has 14 columns and does not include those separate fields. The original generation script was not supplied and is not recreated here.
-
 This project supports descriptive exploration. It does not establish why employees leave, causal salary differences, or a measured business improvement.
 
 ## Repository contents
