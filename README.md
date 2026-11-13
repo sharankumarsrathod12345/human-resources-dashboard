@@ -4,7 +4,7 @@ A Tableau portfolio project by **Sharan Rathod** that brings workforce overview,
 
 [Portfolio case study](https://sharankumarsrathod12345.github.io/projects/hr-dashboard/) · [Download the Tableau workbook](workbook/HR-Dashboard.twbx) · [Dataset](data/dataset.csv)
 
-![HR summary dashboard](images/hr-summary.png)
+![HR summary dashboard](images/HR _ Summary.png)
 
 ## Business question
 
