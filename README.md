@@ -1,1 +1,1 @@
-# HR-dashboards
+# HR-dashboard
