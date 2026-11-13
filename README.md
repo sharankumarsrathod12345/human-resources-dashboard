@@ -56,6 +56,7 @@ The packaged workbook includes its extract and images. If reconnecting to the CS
 | Total terminated | Count of Employee_ID with a nonblank Termdate |
 | HQ / Branch | New York state is HQ; all other states are Branch |
 | Age | Year difference from Birthdate to TODAY() |
+| Age groups | <25, 25–34, 35–44, 45–54, 55+ |
 | Length of hire | Year difference from Hiredate to TODAY(), or to Termdate for terminated employees |
 
 Age and tenure are dynamic and may differ from saved screenshots. Tableau year-boundary differences are not exact completed birthday or anniversary calculations. Headcount is based on termination-date presence, not a historical as-of-date model.
@@ -68,7 +69,7 @@ This project supports descriptive exploration. It does not establish why employe
 
 | Path | Contents |
 | --- | --- |
-| `workbook/` | Original packaged Tableau workbook |
+| `workbook/` | Updated packaged Tableau workbook with corrected <25 label |
 | `data/` | Original semicolon-delimited CSV |
 | `images/` | Summary and employee-details screenshots |
 | `docs/requirements.png` | Supplied project requirements and data-generation description |
